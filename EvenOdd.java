@@ -8,7 +8,7 @@ class EvenOdd{
         if(num%2==0){
             System.out.println("It is Even"+" "+num);
         }else{
-            System.out.println("It is Odd"+num);
+            System.out.println("It is Odd"+" "+num);
         }
     }
 }
