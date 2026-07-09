@@ -13,7 +13,5 @@ class Calculator{
         System.out.println("Product is:"+(a*b));
         System.out.println("Quotient  is:"+(a/b));
         System.out.println("Remainder is:"+(a%b));
-        
-
     }
 }
